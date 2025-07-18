@@ -9,7 +9,7 @@
       "@utils/*": ["src/utils/*"],
       "@screens/*": ["src/screens/*"],
       "@navigation/*": ["src/navigation/*"],
-      "@screen/*": ["src/screens/*"],
+      "@services/*":["src/services/*"]
     },    
   }
 }
